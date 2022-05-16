@@ -10,7 +10,7 @@
     <br>
     19120000 - Lê Ngọc Lâm
     <br>
-    19120000 - Vũ Đào Hoàng Long
+    1912000022 - Vũ Đào Hoàng Long
     <br>
     19120256 - Nguyễn Võ Anh Khoa
     <br>
