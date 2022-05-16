@@ -62,6 +62,7 @@ Ba loại relay
 - Deep web là một tập hợp con của internet. Deep web không thể truy cập bằng các trình duyệt thông thường. Ví dụ sử dụng TOR để truy cập chúng.​
 - Dark web là một tập hợp con của deep web, được lập chỉ mục và cần một thứ gì đó đặc biệt để truy cập nó, ví dụ như: xác thực để được truy cập, phần mềm uỷ quyền cụ thể…​
 - Các loại trang web này thường yêu cầu đóng góp trước khi sử dụng để giữ cho tài nguyên phát triển mạnh và có nội dung mới.​
+- Deep web được chia làm 8 tầng và dark web được tính từ tầng thứ 3 trở đi.​
 
 
 
