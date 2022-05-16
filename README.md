@@ -8,7 +8,7 @@
   <p align="center">
     Nhóm 10
     <br>
-    19120000 - Lê Ngọc Lâm
+    19120089 - Lê Ngọc Lâm
     <br>
     19120022 - Vũ Đào Hoàng Long
     <br>
@@ -26,31 +26,32 @@
 - [How to be anonymous online](#how-to-be-anonymous-online)
 
 ## Tor
-
 Sơ lược cách hoạt động internet và server-clients​
 - Internet là một chuỗi kết nối các máy tính.​
 - Dữ liệu được lưu trữ trên internet thường được lưu trữ trong  các server. Client kết nối đến server để nhận dữ liệu. Dữ liệu được di chuyển trên internet trong các gói chứa thông tin về nguồn và đích.​
 
 Giới thiệu
-
+<img src="./images/tor.png" alt="" style="display:block;margin:0 auto 0 auto;"/>
+ 
 - TOR là một công cụ cho phép duyệt web với tư cách là một người ẩn danh.​
 - TOR ban đầu là viết tắt của The Onion Router, thực hiện phân thức giao tuyến kiểu củ hành thế hệ thứ hai.
 
 TOR hoạt động như thế nào?​
 
 - Mạng Tor được tạo thành từ các tình nguyện viên biến máy tính của họ thành các nodes.​
+<img src="./images/relays.jpg" alt="" style="display:block;margin:0 auto 0 auto;"/>
 - Tor tạo ra các đường dẫn thông qua các nodes, được gán ngẫu nhiên, để khi bạn truy cập internet bằng Tor các gói tin sẽ được gửi qua các đường dẫn trước khi đến server.​
 - Các gói tin cũng được thiết kế khác để di chuyển trong mạng Tor. Gói tin sẽ được bao phủ bởi các lớp gói tin tuần tự.​
-
+<img src="./images/howTorWork.jpg" alt="" style="display:block;margin:0 auto 0 auto;"/>
 Tor thực sự hoạt động như thế nào?​
-- TOR chuyển kết nối của bạn đến các máy tính trung gian, còn được gọi là rơ-le.​
-- Có khoảng 6000 rơ-le được tìm thấy và được điều hành bởi các tình nguyện viên.​
-- TOR được tạo ra để trả lại các kết nối thông qua ba loại rơ-le và mỗi rơ-le này chứa một vai trò cụ thể.​
+- TOR chuyển kết nối của bạn đến các máy tính trung gian, còn được gọi là relay.​
+- Có khoảng 6000 relay được tìm thấy và được điều hành bởi các tình nguyện viên.​
+- TOR được tạo ra để trả lại các kết nối thông qua ba loại relay và mỗi relay này chứa một vai trò cụ thể.​
 
-Ba loại rơ-le​
-- Rơ-le nhập​: Đại diện điểm vào mạng TOR, rơ-le được chọn vai trò bảo vệ.​
-- Rơ-le giữa​: Được sử dụng để truyền tải lưu lượng từ rơ-le lối vào đến rơ-le lối ra. ​
-- Rơ-le thoát​: Hướng lưu lương truy cập đến đích cuối cùng mà client  dự định.​
+Ba loại relay
+- Relay nhập​: Đại diện điểm vào mạng TOR, relay được chọn vai trò bảo vệ.​
+- Relay giữa​: Được sử dụng để truyền tải lưu lượng từ relay lối vào đến relay lối ra. ​
+- Relay thoát​: Hướng lưu lương truy cập đến đích cuối cùng mà client  dự định.​
 
 <!-- Chèn ảnh vào đây: Ảnh tor (củ hành) + cách hoạt động -->
 <!-- <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72> -->
