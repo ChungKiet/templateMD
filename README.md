@@ -128,7 +128,7 @@ Vô hiệu hóa JavaScript​
 - JavaScript là một ngôn ngữ lập trình cho phép tạo đồ họa động, bản đồ tương tác và các tính năng đặc biệt khác trên các trang web. Thật không may, tin tặc có thể khai thác các lỗ hổng trong JavaScript để sửa đổi và đánh cắp dữ liệu người dùng 8 , vì vậy tốt nhất bạn nên vô hiệu hóa nó, đặc biệt nếu bạn đang sử dụng trình duyệt phổ biến như Chrome hoặc Firefox.​
 
 
-```text
+<!-- ```text
 folder1/
 └── folder2/
     ├── folder3/
@@ -137,25 +137,12 @@ folder1/
     └── folder4/
         ├── file3
         └── file4
-```
-
-## Bugs and feature requests
-
-Have a bug or a feature request? Please first read the [issue guidelines](https://reponame/blob/master/CONTRIBUTING.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://reponame/issues/new).
-
-## Contributing
-
-Please read through our [contributing guidelines](https://reponame/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
-
-Moreover, all HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Main author](https://github.com/usernamemainauthor).
-
-Editor preferences are available in the [editor config](https://reponame/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
-
+``` -->
 ## Creators
 
 **Creator 1**
 
-- <https://github.com/usernamecreator1>
+- Chung Hoang Tuan Kiet
 
 ## Thanks
 
