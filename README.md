@@ -63,7 +63,7 @@ Ba loại relay
 - Dark web là một tập hợp con của deep web, được lập chỉ mục và cần một thứ gì đó đặc biệt để truy cập nó, ví dụ như: xác thực để được truy cập, phần mềm uỷ quyền cụ thể…​
 - Các loại trang web này thường yêu cầu đóng góp trước khi sử dụng để giữ cho tài nguyên phát triển mạnh và có nội dung mới.​
 - Deep web được chia làm 8 tầng và dark web được tính từ tầng thứ 3 trở đi.​
-<img src="./images/indexDarkweb.png" alt="" style="display:block;margin:0 auto 0 auto;"/>
+<img src="./images/indexDarkweb.jpg" alt="" style="display:block;margin:0 auto 0 auto;"/>
 
 
 ## How to be anonymous online
