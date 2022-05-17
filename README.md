@@ -155,18 +155,16 @@ folder1/
         ├── file3
         └── file4
 ``` -->
-## Creators
+<!-- ## Creators
 
-**Creator 1**
+- Chung Hoang Tuan Kiet -->
 
-- Chung Hoang Tuan Kiet
+## Reference
 
-## Thanks
+<!-- Some Text -->
 
-Some Text
-
-## Copyright and license
+<!-- ## Copyright and license
 
 Code and documentation copyright 2011-2018 the authors. Code released under the [MIT License](https://reponame/blob/master/LICENSE).
 
-Enjoy :metal:
+Enjoy :metal: -->
