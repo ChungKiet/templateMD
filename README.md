@@ -63,43 +63,58 @@ Ba loại relay
 - Dark web là một tập hợp con của deep web, được lập chỉ mục và cần một thứ gì đó đặc biệt để truy cập nó, ví dụ như: xác thực để được truy cập, phần mềm uỷ quyền cụ thể…​
 - Các loại trang web này thường yêu cầu đóng góp trước khi sử dụng để giữ cho tài nguyên phát triển mạnh và có nội dung mới.​
 - Deep web được chia làm 8 tầng và dark web được tính từ tầng thứ 3 trở đi.​
-
+<img src="./images/indexDarkweb.png" alt="" style="display:block;margin:0 auto 0 auto;"/>
 
 
 ## How to be anonymous online
 
 Giới thiệu
 - Tính ẩn danh trực tuyến thực sự đòi hỏi nhiều thay đổi đối với quy trình kỹ thuật số của bạn, chẳng hạn như thay thế hệ điều hành, trình duyệt, công cụ tìm kiếm, ứng dụng nhắn tin và nhà cung cấp email. Dưới đây là 22 bước bạn cần thực hiện để ẩn danh trực tuyến.​
+<img src="./images/anonymous1.png" alt="" style="display:block;margin:0 auto 0 auto;"/>
 
 Sử dụng phần mềm nhắn tin được mã hóa
 - Nếu muốn gửi tin nhắn văn bản trên các thiết bị di động, hãy sử dụng ứng dụng nhắn tin được mã hóa như Signal.​
 
 - Với Signal, tất cả các thông tin liên lạc đều có mã hóa đầu cuối trên giao thức mã nguồn mở của nó. ​
 Người khác không thể xem tin nhắn hoặc cuộc gọi của bạn và không có quảng cáo hoặc trình theo dõi.​
+<img src="./images/anonymous2.jpg" alt="" style="display:block;margin:0 auto 0 auto;"/>
+
 
 Sử dụng trình duyệt được mã hóa. ​
 - Google nổi tiếng với việc thu thập dữ liệu phong phú. Thay vì sử dụng Chrome hoặc trình duyệt khác của một công ty công nghệ lớn, hãy sử dụng Tor, một trình duyệt bảo mật mã hóa địa chỉ IP và hoạt động web của bạn ba lần. Tuy nhiên, Tor không mã hóa bất kỳ ứng dụng web nào khác mà bạn sử dụng, đó là lý do tại sao bạn cũng cần VPN. Bạn hỏi [VPN là gì](https://www.security.org/vpn/what-is-a-vpn/)?​
+<img src="./images/anonymous3.jpg" alt="" style="display:block;margin:0 auto 0 auto;"/>
+
 
 Sử dụng VPN​
 - [VPN](https://www.security.org/vpn/what-is-a-vpn/) là viết tắt của “mạng riêng ảo” và, không giống như Tor, [VPN mã hóa](https://www.security.org/vpn/encryption/) tất cả lưu lượng truy cập web từ các trình duyệt và các ứng dụng web khác. Ngoài việc [ẩn địa chỉ IP của bạn](https://www.security.org/vpn/hide-your-ip-address/) , [VPN](https://www.security.org/vpn/browsing-history/) còn ẩn lịch sử duyệt web của bạn để nhà cung cấp dịch vụ internet (ISP) không thể thấy bất kỳ hoạt động trực tuyến nào của bạn. Phần tốt nhất? Bạn có thể thiết lập [VPN](https://www.security.org/vpn/setup/) chỉ trong vài phút; kiểm tra cách truy cập trang [VPN](https://www.security.org/vpn/how-to/) của chúng tôi để biết thêm thông tin.​
+<img src="./images/anonymous4.jpg" alt="" style="display:block;margin:0 auto 0 auto;"/>
+
 
 Sử dụng các dịch vụ email an toàn​
 - Vì chúng tôi đã tham gia rất sâu vào hệ sinh thái của Google, chúng tôi sử dụng Gmail làm nhà cung cấp email cá nhân của mình. Mặc dù chúng tôi thích tính dễ sử dụng của nó, nhưng chúng tôi không thích việc Google lưu giữ tất cả các email riêng tư của chúng tôi trên các máy chủ của nó. Tuy nhiên, có những tùy chọn an toàn như ProtonMail, cùng một công ty đã mang đến cho chúng tôi [ProtonVPN](https://www.security.org/vpn/protonvpn/review/) . ProtonMail có trụ sở tại Thụy Sĩ, một thành viên của liên minh giám sát Five Eyes, vì vậy công ty không thể bị buộc phải cung cấp dữ liệu khách hàng của chính phủ. Thay vào đó, tất cả email đều có mã hóa đầu cuối bằng mã nguồn mở và dịch vụ này miễn phí cho người dùng Android, iOS và web ​
+<img src="./images/anonymous5.jpg" alt="" style="display:block;margin:0 auto 0 auto;"/>
+
 
 Sử dụng một email tạm thời​
 - Bạn không muốn một công ty gửi bản tin cho bạn hàng ngày? Sử dụng một địa chỉ email tạm thời. Các dịch vụ như Temp Mail tạo các địa chỉ email hữu ích miễn phí.​
+<img src="./images/anonymous6.png" alt="" style="display:block;margin:0 auto 0 auto;"/>
 
 Sử dụng bộ nhớ được mã hóa​
 - Trở lại chuyến tàu của Google, chúng tôi lưu trữ tất cả tài liệu, ảnh và tệp của mình trong Google Drive, đây chắc chắn không phải là một lựa chọn tốt về mặt bảo mật. Tuy nhiên, một số nhà cung cấp dịch vụ lưu trữ đám mây sử dụng mã hóa end-to-end, như Sync, Tresorit và ProtonDrive, một người anh em họ với ProtonMail và ProtonVPN.​
+<img src="./images/anonymous7.jpg" alt="" style="display:block;margin:0 auto 0 auto;"/>
 
 Sử dụng trình duyệt được mã hóa. ​
 - Google nổi tiếng với việc thu thập dữ liệu phong phú. Thay vì sử dụng Chrome hoặc trình duyệt khác của một công ty công nghệ lớn, hãy sử dụng Tor, một trình duyệt bảo mật mã hóa địa chỉ IP và hoạt động web của bạn ba lần. Tuy nhiên, Tor không mã hóa bất kỳ ứng dụng web nào khác mà bạn sử dụng, đó là lý do tại sao bạn cũng cần VPN. Bạn hỏi VPN là gì?​
+<img src="./images/anonymous8.jpg" alt="" style="display:block;margin:0 auto 0 auto;"/>
+
 
 ​Kiểm tra quyền ứng dụng​
 - Tất cả chúng ta đều có lỗi khi vô ý chấp nhận các điều khoản và điều kiện của ứng dụng, nhưng trước khi bạn chấp nhận, hãy xem ứng dụng có những quyền nào. Ví dụ: nó luôn cần biết vị trí của bạn hay bạn có thể tắt tính năng này không? Hầu hết các ứng dụng đều yêu cầu càng nhiều quyền càng tốt, vì vậy bạn có thể kiểm tra chúng hay không.​
+<img src="./images/anonymous9.jpg" alt="" style="display:block;margin:0 auto 0 auto;"/>
 
 Đọc chính sách bảo mật.​
 - Tương tự, hãy kiểm tra dữ liệu mà một trang web hoặc ứng dụng thu thập, chia sẻ và / hoặc bán trước khi bạn sử dụng. Nhiều công ty bán thông tin cá nhân của người dùng cho bên thứ ba với mục đích tiếp thị và quảng cáo, điều này không có lợi cho quyền riêng tư chứ chưa nói đến việc ẩn danh.​
+<img src="./images/anonymous10.jpg" alt="" style="display:block;margin:0 auto 0 auto;"/>
 
 Sử dụng trình chặn quảng cáo
 - [Phần mềm quảng cáo](https://www.security.org/antivirus/adware/) là phần mềm đặt quảng cáo trên máy tính, điện thoại hoặc máy tính bảng của bạn, nhưng ngay cả khi bạn không có phần mềm quảng cáo, hầu hết các trang web và ứng dụng đều có một số hình thức quảng cáo, điều này có thể gây khó chịu. Ngoài việc [loại bỏ phần mềm quảng cáo](https://www.security.org/antivirus/remove-adware/) , bạn có thể sử dụng trình chặn quảng cáo như AdBlock hoặc Adblock Plus.​
