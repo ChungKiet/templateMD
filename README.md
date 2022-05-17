@@ -118,53 +118,45 @@ Sử dụng trình duyệt được mã hóa. ​
 
 Sử dụng trình chặn quảng cáo
 - [Phần mềm quảng cáo](https://www.security.org/antivirus/adware/) là phần mềm đặt quảng cáo trên máy tính, điện thoại hoặc máy tính bảng của bạn, nhưng ngay cả khi bạn không có phần mềm quảng cáo, hầu hết các trang web và ứng dụng đều có một số hình thức quảng cáo, điều này có thể gây khó chịu. Ngoài việc [loại bỏ phần mềm quảng cáo](https://www.security.org/antivirus/remove-adware/) , bạn có thể sử dụng trình chặn quảng cáo như AdBlock hoặc Adblock Plus.​
+<img src="./images/anonymous11.jpg" alt="" style="display:block;margin:0 auto 0 auto;"/>
 
 Không sử dụng trợ lý giọng nói​
 - Trợ lý giọng nói giúp [tự động hóa ngôi nhà](https://www.security.org/smart-home/home-automation/) thuận tiện trong [ngôi nhà thông minh](https://www.security.org/smart-home/) của bạn . Tuy nhiên, chúng nổi tiếng là xấu về quyền riêng tư. Chẳng hạn, nhân viên của Amazon đã thừa nhận đã nghe bản ghi âm Alexa và có một micrô ẩn, không tiết lộ trong hệ thống bảo mật [Nest Secure](https://www.security.org/home-security-systems/nest-security/review/) tương thích với Trợ lý Google . Đặt cược tốt nhất của bạn là tránh xa trợ lý giọng nói và tiếp tục kiểm soát [đèn thông minh](https://www.security.org/smart-home/smart-lights/) , [nhà để xe thông minh](https://www.security.org/smart-home/smart-garage-door/) , [khóa thông minh](https://www.security.org/smart-locks/) và các thiết bị IoT khác theo cách thủ công thông qua ứng dụng của bạn.​
+<img src="./images/anonymous12.jpg" alt="" style="display:block;margin:0 auto 0 auto;"/>
 
 Tránh xa mạng xã hội​
 - Trong [nghiên cứu của chúng tôi về phương tiện truyền thông xã hội và cách nuôi dạy con cái](https://www.security.org/digital-safety/parenting-social-media-report/) , chúng tôi nhận thấy rằng hơn ba phần tư các bậc cha mẹ chia sẻ những câu chuyện, hình ảnh hoặc video về con cái của họ trên mạng xã hội. Tệ hơn nữa, hơn 80 phần trăm các bậc cha mẹ này sử dụng tên thật của con mình trong các bài đăng này. Điều này không chỉ khiến con cái của họ có nguy cơ bị [đánh cắp danh tính trẻ em](https://www.security.org/digital-safety/child-identity-theft/) , mà các công ty truyền thông xã hội còn lưu giữ dữ liệu này trong thời gian dài. Đặt cược tốt nhất cho sự riêng tư của bạn là tránh hoàn toàn các phương tiện truyền thông xã hội.​
+<img src="./images/anonymous13.jpg" alt="" style="display:block;margin:0 auto 0 auto;"/>
 
 Sử dụng proxy​
 - Khi nói đến VPN so với máy chủ [proxy](https://www.security.org/vpn/proxy-vs-vpn/), máy chủ proxy tốt hơn cho các mạng đang di chuyển mà bạn chỉ sử dụng một lần. Không giống như VPN, máy chủ proxy chỉ mã hóa địa chỉ IP của thiết bị chứ không phải lưu lượng truy cập web của bạn, khiến chúng kém an toàn hơn (nhưng thường miễn phí)​
+<img src="./images/anonymous14.jpg" alt="" style="display:block;margin:0 auto 0 auto;"/>
 
 Kiểm tra HTTPS​
 - Nếu có thể, chỉ truy cập các trang web có URL bắt đầu bằng “HTTPS” thay vì “HTTP”. HTTPS, viết tắt của “giao thức truyền siêu văn bản an toàn”, sử dụng lớp cổng bảo mật (SSL) để mã hóa tất cả thông tin liên lạc giữa trình duyệt của bạn và các trang web bạn truy cập, trong khi HTTP thì không.​
+<img src="./images/anonymous15.jpg" alt="" style="display:block;margin:0 auto 0 auto;"/>
 
 Tắt cookie​
 - Bạn có nhớ khi chúng tôi đề cập đến những quảng cáo theo dõi bạn trên internet như một kẻ theo dõi bạn trai cũ không? Cookie là dữ liệu về các hoạt động trực tuyến của bạn để định hình các quảng cáo được nhắm mục tiêu; đôi khi chúng được ẩn danh và tổng hợp, nhưng đôi khi không.​
+<img src="./images/anonymous16.jpg" alt="" style="display:block;margin:0 auto 0 auto;"/>
 
 Không sử dụng Google​
 - Chúng tôi sẽ nói lại lần nữa: Google theo dõi mọi thứ bạn tìm kiếm trực tuyến, đó có thể là thông tin rất cá nhân. Thay vì Googling, hãy duyệt web bằng công cụ tìm kiếm như DuckDuckGo, công cụ này không thu thập thông tin cá nhân của bạn để tạo quảng cáo được nhắm mục tiêu. Thay vào đó, dịch vụ tạo quảng cáo dựa trên những gì bạn tìm kiếm và tất cả dữ liệu tìm kiếm đều được ẩn danh, cũng như địa chỉ IP​
-
+<img src="./images/anonymous17.jpg" alt="" style="display:block;margin:0 auto 0 auto;"/>
 
 ​Sử dụng hệ điều hành an toàn​
 - Nếu ẩn danh trực tuyến của bạn là một tòa nhà, thì hệ điều hành của bạn là nền tảng. Ngay cả với máy chủ email an toàn, trình duyệt, công cụ tìm kiếm, v.v., nếu bạn đang sử dụng hệ điều hành từ một công ty công nghệ lớn, dữ liệu của bạn vẫn có thể được ghi lại. Ngược lại, một hệ điều hành mã nguồn mở như Linux lại ngăn cản người dùng. Tails và Whonix là một số tùy chọn hệ điều hành an toàn khác.​
+<img src="./images/anonymous18.jpg" alt="" style="display:block;margin:0 auto 0 auto;"/>
 
-Vô hiệu hóa JavaScript​
+<!-- Vô hiệu hóa JavaScript​
 - JavaScript là một ngôn ngữ lập trình cho phép tạo đồ họa động, bản đồ tương tác và các tính năng đặc biệt khác trên các trang web. Thật không may, tin tặc có thể khai thác các lỗ hổng trong JavaScript để sửa đổi và đánh cắp dữ liệu người dùng 8 , vì vậy tốt nhất bạn nên vô hiệu hóa nó, đặc biệt nếu bạn đang sử dụng trình duyệt phổ biến như Chrome hoặc Firefox.​
+<img src="./images/anonymous19.jpg" alt="" style="display:block;margin:0 auto 0 auto;"/> -->
 
-
-<!-- ```text
-folder1/
-└── folder2/
-    ├── folder3/
-    │   ├── file1
-    │   └── file2
-    └── folder4/
-        ├── file3
-        └── file4
-``` -->
-<!-- ## Creators
-
-- Chung Hoang Tuan Kiet -->
 
 ## Reference
-
-<!-- Some Text -->
 
 <!-- ## Copyright and license
 
 Code and documentation copyright 2011-2018 the authors. Code released under the [MIT License](https://reponame/blob/master/LICENSE).
 
-Enjoy :metal: -->
+
